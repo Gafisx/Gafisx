@@ -47,13 +47,9 @@ Nossas plataformas são construídas sobre fundações modernas, seguras e escal
 
 <div align="center">
 
-  <a href="https://instagram.com/tattoogomarketplace" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-TattooGo%20MK-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram TattooGo MK" />
-  </a>
+  <a href="https://instagram.com/tattoogomarketplace" target="_blank"><img src="https://img.shields.io/badge/Instagram-TattooGo%20MK-ff6600?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram TattooGo MK" /></a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/gabriell_farias_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Fundador%20@gabriell__farias__-121212?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram Fundador" />
-  </a>
+  <a href="https://instagram.com/gabriell_farias_" target="_blank"><img src="https://img.shields.io/badge/Instagram-Fundador%20@gabriell__farias__-121212?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram Fundador" /></a>
 
 </div>
 
@@ -62,5 +58,3 @@ Nossas plataformas são construídas sobre fundações modernas, seguras e escal
 <div align="center">
   <sub>&copy; 2026 Gafisx Labs. Todos os direitos reservados.</sub>
 </div>
-
-
