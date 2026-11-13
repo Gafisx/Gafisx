@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Gafisx/Gafisx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://raw.githubusercontent.com/Gafisx/Gafisx/main/banner-gafisx.png" alt="Gafisx Labs Banner" width="100%" />
 
-Here are some ideas to get you started:
+  # Gafisx Labs &bull; Digital Ecosystem Forge
+  
+  <p align="center">
+    <em>Construindo a infraestrutura e os ecossistemas digitais do futuro para profissionais autônomos.</em>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Badges Enterprise -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge&color=ff6600" alt="Status Active">
+    <img src="https://img.shields.io/badge/Focus-Marketplaces%20%26%20SaaS-black?style=for-the-badge" alt="Focus">
+    <img src="https://img.shields.io/badge/HQ-São%20Paulo,%20BR-007ACC?style=for-the-badge" alt="Location São Paulo">
+    <img src="https://img.shields.io/badge/Architecture-Enterprise-6f42c1?style=for-the-badge" alt="Enterprise Ready">
+  </p>
+
+</div>
+
+---
+
+## ⚡ Sobre a Gafisx Labs
+
+A **Gafisx Labs** é uma *Software House* dedicada a conceber, arquitetar e escalar soluções digitais de alta performance e ecossistemas integrados. Nosso foco é desenvolver a infraestrutura tecnológica que capacita a próxima geração de profissionais autônomos e negócios em mercados nichados.
+
+---
+
+## 🚀 Core Tech Stack
+
+Nossas plataformas são construídas sobre fundações modernas, seguras e escaláveis:
+
+* **Frontend & Web:** Next.js (App Router), React, TypeScript, Tailwind CSS
+* **Mobile:** Expo & React Native
+* **Backend & Database:** Node.js, Prisma ORM, Supabase, Neon DB (PostgreSQL)
+* **Auth, Cache & Infra:** Clerk Auth, Upstash Redis, Vercel, Cloudflare
+
+---
+
+## 🏛️ Ecossistema de Produtos
+
+* 🛡️ **TattooGo Marketplace (`tattoogo.com.br`):** Plataforma full-stack revolucionando a conexão, portfólios e agendamentos entre tatuadores, estúdios e clientes.
+* ⚙️ **Gafisx Core:** Arquitetura base proprietária para desenvolvimento acelerado de novos produtos digitais.
+
+---
+
+## 🌐 Conecte-se Conosco
+
+* 📸 **TattooGo Instagram:** [@tattoogomarketplace](https://instagram.com/tattoogomarketplace)
+* 👤 **Fundador:** [@gabriell_farias_](https://instagram.com/gabriell_farias_)
+
+<div align="center">
+  <sub>&copy; 2026 Gafisx Labs. Todos os direitos reservados.</sub>
+</div>
