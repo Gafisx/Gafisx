@@ -45,7 +45,7 @@ Nossas plataformas são construídas sobre fundações modernas, seguras e escal
 
 ## 🌐 Conecte-se Conosco
 
-* 📸 **TattooGo Instagram:** [@tattoogomarketplace](https://instagram.com/tattoogomarketplace)
+* 📸 **TattooGo MK Instagram:** [@tattoogomarketplace](https://instagram.com/tattoogomarketplace)
 * 👤 **Fundador:** [@gabriell_farias_](https://instagram.com/gabriell_farias_)
 
 <div align="center">
