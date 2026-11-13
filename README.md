@@ -30,16 +30,15 @@ A **Gafisx Labs** é uma *Software House* dedicada a conceber, arquitetar e esca
 
 Nossas plataformas são construídas sobre fundações modernas, seguras e escaláveis:
 
-* **Frontend & Web:** Next.js (App Router), React, TypeScript, Tailwind CSS
-* **Mobile:** Expo & React Native
-* **Backend & Database:** Node.js, Prisma ORM, Supabase, Neon DB (PostgreSQL)
+* **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
+* **Backend & Database:** Node.js, Prisma ORM, Neon DB 
 * **Auth, Cache & Infra:** Clerk Auth, Upstash Redis, Vercel, Cloudflare
 
 ---
 
 ## 🏛️ Ecossistema de Produtos
 
-* 🛡️ **TattooGo Marketplace (`tattoogo.com.br`):** Plataforma full-stack revolucionando a conexão, portfólios e agendamentos entre tatuadores, estúdios e clientes.
+* 🛡️ **TattooGo Marketplace :** Plataforma full-stack revolucionando a conexão, portfólios e agendamentos entre tatuadores, estúdios e clientes.
 * ⚙️ **Gafisx Core:** Arquitetura base proprietária para desenvolvimento acelerado de novos produtos digitais.
 
 ---
