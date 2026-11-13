@@ -52,7 +52,7 @@ Nossas plataformas são construídas sobre fundações modernas, seguras e escal
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/gabriell_farias_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Fundador%20(@gabriell__farias__)-121212?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram Fundador" />
+    <img src="https://img.shields.io/badge/Instagram-Fundador%20@gabriell__farias__-121212?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram Fundador" />
   </a>
 
 </div>
