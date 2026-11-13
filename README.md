@@ -45,9 +45,21 @@ Nossas plataformas são construídas sobre fundações modernas, seguras e escal
 
 ## 🌐 Conecte-se Conosco
 
-* 📸 **TattooGo MK Instagram:** [@tattoogomarketplace](https://instagram.com/tattoogomarketplace)
-* 👤 **Fundador:** [@gabriell_farias_](https://instagram.com/gabriell_farias_)
+<div align="center">
+
+  <a href="https://instagram.com/tattoogomarketplace" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-TattooGo%20MK-ff6600?style=for-the-badge&logo=instagram&logoColor=white&labelColor=121212" alt="Instagram TattooGo MK" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/gabriell_farias_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Fundador-6f42c1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=121212" alt="Instagram Fundador" />
+  </a>
+
+</div>
+
+<br/>
 
 <div align="center">
   <sub>&copy; 2026 Gafisx Labs. Todos os direitos reservados.</sub>
 </div>
+
