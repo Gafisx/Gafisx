@@ -47,9 +47,9 @@ Nossas plataformas são construídas sobre fundações modernas, seguras e escal
 
 <div align="center">
 
-  <a href="https://instagram.com/tattoogomarketplace" target="_blank"><img src="https://img.shields.io/badge/Instagram-TattooGo%20MK-ff6600?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram TattooGo MK" /></a>
+  <a href="https://instagram.com/tattoogomarketplace" target="_blank"><img src="https://img.shields.io/badge/TATTOOGO%20MK-ECOSYSTEM-ff6600?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="TattooGo MK Instagram" /></a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/gabriiell_farias_" target="_blank"><img src="https://img.shields.io/badge/Instagram-Fundador%20@gabriiell__farias__-6f42c1?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Fundador" /></a>
+  <a href="https://instagram.com/gabriiell_farias_" target="_blank"><img src="https://img.shields.io/badge/FOUNDER-@gabriiell__farias__-6f42c1?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Fundador Instagram" /></a>
 
 </div>
 
